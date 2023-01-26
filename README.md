@@ -9,6 +9,6 @@
 
 > tech : SWIFT, iOS, Xcode, node.js, VScode
 
-> functions : 
+> functions : socketopen, socketclose, sendmessage, broadcastmessage
 
 > contents : 
