@@ -7,8 +7,8 @@
 
 > timespent : 2023.01
 
-> tech : SWIFT, iOS, Xcode, node.js, VScode
+> tech : node.js, VScode
 
 > functions : socketopen, socketclose, sendmessage, broadcastmessage
 
-> contents : 
+> contents : 다수 사용자 실시간 통신을 하며 정보를 주고 받을 수 있는 플랫폼
