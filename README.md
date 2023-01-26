@@ -7,7 +7,7 @@
 
 > timespent : 2023.01
 
-> tech : node.js, VScode
+> tech : node.js, JSP, html, VScode
 
 > functions : socketopen, socketclose, sendmessage, broadcastmessage
 
