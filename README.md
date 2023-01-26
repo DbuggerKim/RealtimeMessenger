@@ -7,7 +7,7 @@
 
 > timespent : 2023.01
 
-> tech : iOS, swift, Xcode, node.js, VScode
+> tech : SWIFT, iOS, Xcode, node.js, VScode
 
 > functions : 
 
